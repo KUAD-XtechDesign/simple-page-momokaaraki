@@ -1,0 +1,18 @@
+body{
+    background-color: #DCDCDC;
+}
+
+.wrapper{
+    width: 1000px;
+  margin: 30px auto;
+  background-color: #fff;
+  text-align: center;
+}
+img{
+    max-width: 100%;
+  }
+  #slide{
+    border: 10px solid rgb(164, 137, 207);
+    border-radius: 20px;
+    overflow: hidden;  
+  }
